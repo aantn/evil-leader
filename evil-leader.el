@@ -115,4 +115,4 @@ The combination has to be readable by `read-kbd-macro'."
 (put 'evil-leader/set-key 'lisp-indent-function 'defun)
 
 (provide 'evil-leader)
-;;; evil-numbers.el ends here
+;;; evil-leader.el ends here
